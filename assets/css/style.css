@@ -1,4 +1,27 @@
 
 h1 {
-	font-size: 300%;
+	font-size: 350%;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+}
+
+h4 {
+	font-size: 200%;
+	padding-left: 15px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.wrapper {
+	background-color: #1D1E1E;
+	padding: 50px;
+}
+
+.row {
+	background-color: #DCDCDC;
+	padding-top: 50px;
+}
+
+#info {
+	padding-bottom: 50px;
 }
